@@ -1,5 +1,5 @@
 # Charted
-This project is a built of an ios expense tracking app.
+This project is the build of an ios expense tracking app.
 
 ## Tools used
 - Git/github
