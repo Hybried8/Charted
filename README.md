@@ -10,21 +10,20 @@ Budget Management: Set personalized budgets for various expense categories and r
 Insightful Reports: Gain valuable insights into your spending patterns with detailed charts and graphs. Analyze your expenses over time and make informed financial decisions.
 
 ## Installation
-Clone the repository to your local machine.
-Open the project in Xcode.
-Connect your iOS device or use the simulator.
-Build and run the application.
-Technologies Used
+- Clone the repository to your local machine.
+- Open the project in Xcode.
+- Connect your iOS device or use the simulator.
+- Build and run the application.
+  
+## Technologies Used
 Swift
 SwiftUI
 Core Data
-Vision API (for receipt scanning)
 Charts (for data visualization)
-Feedback and Support
-We welcome your feedback and suggestions to improve the Expense Tracker app. If you encounter any issues or have questions, please don't hesitate to reach out to our support team at support@expense-tracker.com.
+
+## Feedback and Support
+If you encounter any issues or have questions, please don't hesitate to reach out to our support team at support@expense-tracker.com.
 
 ## Contributing
 If you'd like to contribute to the project, please fork the repository, create a new branch, and submit a pull request.
 
-## License
-The iOS Expense Tracker is licensed under the MIT License.
