@@ -16,10 +16,10 @@ Insightful Reports: Gain valuable insights into your spending patterns with deta
 - Build and run the application.
   
 ## Technologies Used
-Swift
-SwiftUI
-Core Data
-Charts (for data visualization)
+- Swift
+- SwiftUI
+- Core Data
+- Charts (It's in the name)
 
 ## Feedback and Support
 If you encounter any issues or have questions, please don't hesitate to reach out to our support team at support@expense-tracker.com.
