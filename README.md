@@ -21,9 +21,6 @@ Insightful Reports: Gain valuable insights into your spending patterns with deta
 - Core Data
 - Charts (It's in the name)
 
-## Feedback and Support
-If you encounter any issues or have questions, please don't hesitate to reach out to our support team at support@expense-tracker.com.
-
 ## Contributing
 If you'd like to contribute to the project, please fork the repository, create a new branch, and submit a pull request.
 
